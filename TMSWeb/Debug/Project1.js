@@ -56208,7 +56208,7 @@ rtl.module("Unit1",["System","SysUtils","Classes","JS","Web","WEBLib.Graphics","
         this.pageControlMain.SetHeightStyle(pas["WEBLib.Controls"].TSizeStyle.ssAuto);
         this.pageControlMain.SetWidthStyle(pas["WEBLib.Controls"].TSizeStyle.ssAuto);
         this.pageControlMain.SetElementFont(pas["WEBLib.Controls"].TElementFont.efCSS);
-        this.pageControlMain.SetTabIndex(1);
+        this.pageControlMain.SetTabIndex(0);
         this.pageControlMain.SetShowTabs(false);
         this.pageControlMain.SetTabOrder(0);
         this.pageSettings.SetParentComponent(this.pageControlMain);
