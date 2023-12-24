@@ -5,7 +5,7 @@ Example of a TMS WEB Core application used to edit HTML documents
 [![Count Lines of Code](https://github.com/500Foods/TMS-WEB-Core-DocumentEditor/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/TMS-WEB-Core-DocumentEditor/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```
-Last Updated at 2023-11-27 02:34:35 UTC
+Last Updated at 2023-12-24 05:10:20 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
@@ -16,9 +16,9 @@ HTML                             2             15             12             74
 YAML                             2              8             12             33
 JSON                             1              0              0             30
 JavaScript                       1              3              0             25
-Markdown                         1              3              2             20
+Markdown                         1              3              2             25
 -------------------------------------------------------------------------------
-SUM:                            11            206            468           1491
+SUM:                            11            206            468           1496
 -------------------------------------------------------------------------------
 ```
 <!--CLOC-END-->
